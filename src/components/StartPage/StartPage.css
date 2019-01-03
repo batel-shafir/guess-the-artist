@@ -1,0 +1,23 @@
+.StartPage {
+  text-align: center;
+  font-family: 'Special Elite';
+}
+
+.artists-img{
+  border: 1px solid #ddd;
+  border-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.my-btn{
+  background:#6f91b3;  /* fallback for old browsers */
+  font-family: 'Special Elite';
+  color: white;
+  font-size: 14px;
+  padding: 14px 40px;
+  border-radius: 18px;
+  outline:0 !important; 
+}

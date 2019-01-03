@@ -1,0 +1,13 @@
+.final-score{
+    font-family: 'Special Elite';
+    align-items: center;
+    text-align: center;
+    padding-top: 5em;
+}
+
+.final-img{
+   
+    border-radius: 50%;
+    padding: 10px;
+    
+}

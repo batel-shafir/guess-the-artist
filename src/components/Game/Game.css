@@ -1,0 +1,56 @@
+.game{
+    font-family: 'Special Elite';
+    align-items: center;
+   
+}
+
+.col-left{
+   
+    padding-left:150px;
+    padding-right:150px;
+
+}
+
+.col-right{
+    text-align: center;
+    padding-right:150px;
+    font-size: 25px;
+}
+
+.round-num{
+    text-align: center;
+}
+
+.total-score{
+    padding-top: 5em;
+    text-align: center;
+}
+
+.input{
+    border: 3px solid#6f91b3; 
+    border-radius: 4px;  
+}
+
+this.final-score{
+    padding-top: 2em;
+    text-align: center;
+}
+
+.box {
+    font-size: 25px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px dotted #6f91b3;
+    width: 200px; 
+}
+
+.wraper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3em;
+    padding-bottom: 2em;
+  
+}
