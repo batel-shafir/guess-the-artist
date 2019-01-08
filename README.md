@@ -1,4 +1,4 @@
-Task
+
 Hey There! Welcome to the Task application.
 
 Instructions:
